@@ -1,6 +1,5 @@
 // "use client"
 'use server'
-
 import { CustomButtonProps } from '@/types'
 import Image from 'next/image'
 
